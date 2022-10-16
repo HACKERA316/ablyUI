@@ -1,0 +1,23 @@
+{
+  "name": "ablyui",
+  "version": "1.0.0",
+  "description": "modern ui kit and javascript, html react, vue, electronJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ablyui.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HACKERA316/ablyUI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HACKERA316/ablyUI/issues"
+  },
+  "homepage": "https://github.com/HACKERA316/ablyUI#readme",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
+}
