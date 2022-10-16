@@ -20,5 +20,8 @@
   "dependencies": {
     "typescript": "^4.8.4",
     "webpack": "^5.74.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
   }
 }
