@@ -1,2 +1,3 @@
 require("../ablyui.js");
-require("../ablyui.ts");
+require("../ablyui.js");
+require("../function/ElementScripts.js");
