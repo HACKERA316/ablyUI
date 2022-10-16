@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/HACKERA316/ablyUI#readme",
   "dependencies": {
+    "typescript": "^4.8.4",
     "webpack": "^5.74.0"
   }
 }
