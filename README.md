@@ -1,2 +1,2 @@
 # ablyUI
-modern ui kit and javascript, html react, vue, electronJS
+modern ui kit, secure and javascript, html react, vue, electronJS
