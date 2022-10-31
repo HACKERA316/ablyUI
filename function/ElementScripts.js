@@ -10,6 +10,3 @@ class ablyUI extends HTMLElement{
 }
 
 customElements.define("ably-ui", ablyUI);
-
-
-document.write("hello");
