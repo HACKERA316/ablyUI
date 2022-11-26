@@ -27,6 +27,4 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm start
-    - run: npm run run build
-    - run: npm run build:prod
     - run: npm run build:dev
